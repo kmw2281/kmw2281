@@ -1,13 +1,11 @@
 ## Hi there 👋
 
-<!--
-**kmw2281/kmw2281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ##팀 개발을 위한 git github시작하기
 
 ![image](https://github.com/user-attachments/assets/8b2d493f-a75b-4df1-b028-b78711c72ba9)
 
-### :octocat: 안녕하세요? 고양이예요
+###:octocat: 안녕하세요? 고양이예요
 
 Here are some ideas to get you started:
 
